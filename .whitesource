@@ -3,8 +3,7 @@
     "shouldScanRepo": true
   },
   "checkRunSettings": {
-  
-  
+
     "vulnerableCheckRunConclusionLevel": "failure"
   }
 }
