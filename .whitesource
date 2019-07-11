@@ -1,13 +1,12 @@
 {
+  "scanSettings": {
+    "configMode": "AUTO", // options are "AUTO", "LOCAL", "EXTERNAL"
+    "configExternalURL": "" // In case EXTERNAL was provided for configFileMode
+  },
   "generalSettings": {
-    "shouldScanRepo": true
+      "shouldScanRepo": true
   },
   "checkRunSettings": {
-
     "vulnerableCheckRunConclusionLevel": "failure"
   }
 }
-
-
-
-
