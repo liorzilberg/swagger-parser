@@ -1,6 +1,6 @@
 {
   "scanSettings": {
-    "configMode": "AUTO", // options are "AUTO", "LOCAL", "EXTERNAL"
+    "configMode": "LOCAL", // options are "AUTO", "LOCAL", "EXTERNAL"
     "configExternalURL": "" // In case EXTERNAL was provided for configFileMode
   },
   "generalSettings": {
